@@ -29,6 +29,8 @@
   background: var(--main-color);
   z-index: 100;
   transform: width 300ms;
+
+
 }
 
 .sidebar-brand{
@@ -91,6 +93,8 @@ padding-bottom: 1rem;
 
 #nav-toggle:checked + .sidebar{
   width: 70px;
+
+  
 
 }
 
